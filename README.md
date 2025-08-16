@@ -28,3 +28,13 @@ run:
 locale-gen en_US.UTF-8
 update-locale LANG=en_US.UTF-8
 ```
+
+Install Pico8 Native in EXPERT
+```
+extract pico-8_0.2.6b_raspi.zip:
+1. pico8_64
+2. pico8.dat
+
+Put in /mnt/mmc/EXE/pico-8
+create empty file: splore
+```
