@@ -38,3 +38,10 @@ extract pico-8_0.2.6b_raspi.zip:
 Put in /mnt/mmc/EXE/pico-8
 create empty file: splore
 ```
+
+Add new APPS
+```
+cd /mnt/mmc/Roms/APPS
+nano My_New_Apps.sh
+```
+
